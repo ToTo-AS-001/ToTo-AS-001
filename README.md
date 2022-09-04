@@ -1,6 +1,6 @@
 - 👋 Hi, Je suis @ToTo-AS-001
 - 👀 Je suis interessé par l'informatique et la politique
-- 🌱 Je suis actuellement en L2 Informatique à l'Université de La Rochelle
+- 🌱 Je suis actuellement en L3 Informatique à l'Université de La Rochelle
 - 📫 Vous pouvez me contacter par :
   📨 : thomas.morandiere@gmail.com
   🖥 : @toto_morandiere (Twitter)
